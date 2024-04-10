@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    color: blue;
+    font-size: 30px;
+}
+div{
+    color: black;
+    font-size: 30px;
+}
+input{
+    color: orange;
+    font-size: 30px;
+}
